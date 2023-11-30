@@ -1,7 +1,5 @@
- 
 let nome = "Eder"
-let valorXP = 4350
-
+let valorXP = 6584
 
 
 if (0<=valorXP && valorXP<=1000){
